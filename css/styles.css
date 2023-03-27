@@ -1,0 +1,140 @@
+.btn {
+    background: #6e858f;
+    background-image: -webkit-linear-gradient(top, #6e858f, #a3e0c5);
+    background-image: -moz-linear-gradient(top, #6e858f, #a3e0c5);
+    background-image: -ms-linear-gradient(top, #6e858f, #a3e0c5);
+    background-image: -o-linear-gradient(top, #6e858f, #a3e0c5);
+    background-image: linear-gradient(to bottom, #6e858f, #a3e0c5);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 0px #234c4d;
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+    hr {
+        border: dotted #7c7c7c 6px;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
+    }
+
+
+  
+  .btn:hover {
+    background: #557182;
+    text-decoration: none;
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: black;
+}
+
+.madi-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999e;
+}
+
+.wrench {
+    width: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+.writing {
+    width: 10%;
+    float: right;
+    margin-left: 30px;
+    position: relative;
+    right: 120px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Playfair Display', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font: 0.75rem;
+    padding: 20px 0px;
+}
